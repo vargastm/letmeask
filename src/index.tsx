@@ -1,7 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
-import { Button } from './components/Button'
 
 import './services/firebase'
 
@@ -13,8 +12,5 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
-    <div>
-      <Button/>
-    </div>
   </React.StrictMode>
 );
