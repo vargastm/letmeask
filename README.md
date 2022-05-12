@@ -40,7 +40,7 @@ This project was developed with the following technologies:
 
 ### 🎨 Layout
 
-You can view the project layout [here](<(https://www.figma.com/community/file/1009824839797878169/Letmeask)>). Remembering that you need to have a [Figma](http://figma.com/) account.
+You can view the project layout [here](https://www.figma.com/community/file/1009824839797878169/Letmeask). Remembering that you need to have a [Figma](http://figma.com/) account.
 
 ### 🎓 Instructions
 
