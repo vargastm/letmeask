@@ -23,7 +23,7 @@
 
 ### 💻 Live Preview
 
-- [Vercel]()
+- [Firebase](https://letmeask-vargastm.web.app)
 
 ### 📚 Technologies used
 
